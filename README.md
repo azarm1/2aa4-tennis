@@ -64,4 +64,4 @@ mosser@azrael 2aa4-tennis % java -jar target/tennis.jar -p1 75 -p2 30
       - Second refactor: `git checkout demo_step_03`
 - To look at the solution designed during Lecture #04 (_Case Study: The Tennis Counting_), switch
   to the [`solution`](https://github.com/ace-lectures/2aa4-tennis/tree/solution) branch:
-  - `git checkout solution`
+  - `git checkout solution`# macmerch.py
